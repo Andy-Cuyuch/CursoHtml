@@ -1,0 +1,20 @@
+/**********************************************************************************************************************
+    Estructura basica 
+
+ 1. La etiqueta principal es la etiqueta -- <html>
+ 2. El documento html esta compuesto por dos partes -- <head> <body>
+ 
+
+    Etiqueta html y el atributo lang 
+
+ 1. DOCTYPE HTML   -- Es una etiqueta que especifica que se usa html  
+ 2. hTML lang="en" -- Ordena que el idioma sea ingles (en) Español (es)
+
+    
+    Meta etiquetas 
+
+ 1. <meta charset = "UTF-8"> -- Toma cuaquier juego de caracteres y los presenta en el navegador
+    -- 1. charset = Es el juego de caracteres que esta codificado en una pagina 
+ 2. <meta name="viewport" content="width=device-width, initial-scale=1.0">  -- Le dice a los dispositivos como adaptarse
+    -- viewport es la zona visible del navegador donde se renderiza el contenido html  
+
