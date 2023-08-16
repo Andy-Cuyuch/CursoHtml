@@ -9,3 +9,18 @@ h2{
 body{
     font-family: sans-serif;
 }
+
+/* 
+    Lo que no se debe hacer 
+img{
+    width: 400px;
+    height:200px;
+} 
+*/
+
+/*Lo que se debe hacer*/
+
+img{
+    max-width: 100%;
+    height: auto;
+}
